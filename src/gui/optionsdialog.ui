@@ -1856,7 +1856,7 @@ readme[0-9].txt: filter 'readme1.txt', 'readme2.txt' but not 'readme10.txt'.</st
                   <string>RSS feeds, search engine, software updates or anything else other than torrent transfers and related operations (such as peer exchanges) will use a direct connection</string>
                  </property>
                  <property name="text">
-                  <string>Use proxy only for torrents</string>
+                  <string>Limit proxy use to torrents only (Will bypass the proxy for RSS and search operations)</string>
                  </property>
                  <property name="checked">
                   <bool>false</bool>
